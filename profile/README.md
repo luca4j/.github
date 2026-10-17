@@ -12,6 +12,4 @@ Dal primo Hello World ai sistemi distribuiti.
 
 Canale: [youtube.com/@luca4j](https://www.youtube.com/@luca4j)
 
-Sito: [luca4j-website.pages.dev](https://luca4j-website.pages.dev)
-
-Dominio previsto: `www.luca4j.com`. Il 17 ottobre 2026 non aveva un record DNS.
+Sito: [www.luca4j.com](https://www.luca4j.com)
