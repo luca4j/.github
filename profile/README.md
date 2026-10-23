@@ -23,7 +23,7 @@ Ogni video pubblicato ha un commit nel repository [curriculum](https://github.co
 Sul canale il percorso è pubblico. Sul sito trovi anche l'Academy, il coaching e Engineering.
 
 - Il codice dei video pubblici sta in [curriculum](https://github.com/luca4j/curriculum). La regola è un commit per ogni video.
-- L'Academy è l'iscrizione annuale: 100 CHF in Svizzera e Liechtenstein, 100 EUR in Europa, 100 USD altrove. Apre i corsi che non sono sul canale.
+- L'Academy è l'iscrizione annuale: 299 CHF, con un'ora di coaching individuale inclusa e tariffe di lancio per i primi iscritti. Apre i corsi che non sono sul canale. Massimo 1.000 studenti.
 - La community è lo spazio di pratica per gli iscritti. I materiali riservati non sono in questo profilo.
 - Coaching e Engineering si accordano a parte, fuori dalla quota Academy.
 
